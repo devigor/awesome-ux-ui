@@ -26,6 +26,7 @@
   - [Movimento UX](http://movimentoux.com)
   - [Aelacast](http://podcast.aela.io)
   - [InBetaCast](https://soundcloud.com/inbetacast)
+  - [ExPatria](http://www.expatria.co)
   - [Itera Ideia](https://medium.com/itera-ideia)
 
 ### Contribua! Mande um PR com artigos, livros, etc que será bem-vindo!
